@@ -1,0 +1,32 @@
+# = section end
+/* = comment open
+*/ = comment close
+; = end line
+whitespace non important except after //
+section 0 = point vals
+	float[][3]
+section 1 = line links
+	int[][2]
+
+-1 -1 -1
+-1 -1 1
+-1 1 -1
+-1 1 1
+1 -1 -1
+1 -1 1
+1 1 -1
+1 1 1
+A
+0 1
+1 3
+0 2
+2 3
+4 5
+5 7
+4 6
+6 7
+0 4
+1 5
+3 7
+2 6
+0 7
